@@ -1,8 +1,8 @@
 package com.ooop.day02;
 
 public class Point {
-	int x;
-	int y;
+	public int x;
+	public int y;
 
 	public Point() {// µãÀà
 

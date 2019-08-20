@@ -9,7 +9,7 @@ public class CicleTest {
 		c1.print();
 		System.out.println(c1.area());
 		Point p2 = new Point(66, 1);
-		System.out.println(c1.judge(p2));
+		System.out.println(c1.judge(new Point(66,1)));
 		System.out.println(c1.judge(3, 5));
 	}
 }
